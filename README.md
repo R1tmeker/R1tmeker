@@ -1,6 +1,6 @@
 # 👋 Hi, I'm R1tmeker
 
-🎯 Full-stack Developer | 🛠 Responsive Template Expert | ⚡ Automation + AI Integration
+🎯 Full-stack Developer | 🛠 Responsive Template Expert | 
 
 ---
 
